@@ -58,8 +58,8 @@ void ChA_ISR(){
 void ChB_ISR(){
   noInterrupts();
   if(PIND & B00000010)
-    ChB = true;
-  else
     ChB = false;
+  else
+    ChB = true;
   interrupts();
 }

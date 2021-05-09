@@ -1,0 +1,10 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Arduino Uno R3"
+"M1",1,"118 Motor de CC con codificador"
+"P1",1,"6 , 5  Suministro de energía"
+"UCanal B, UCanal A",2,"600 us Osciloscopio"
+"U4",1," Regulador de 5 V [LM7805]"
+"K2",1," Relé DPDT"
+"S1, S2",2," Interruptor deslizante"
+"R1",1,"100 kΩ Resistencia"
+"R2, R3, R4, R5",4,"1 kΩ Resistencia"
